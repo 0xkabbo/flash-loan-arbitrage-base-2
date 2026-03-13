@@ -1,0 +1,12 @@
+{
+  "name": "aave-v3-flashloan-template",
+  "version": "1.0.0",
+  "description": "Aave V3 Flash Loan boilerplate for Arbitrage",
+  "dependencies": {
+    "@aave/core-v3": "^1.17.2",
+    "@openzeppelin/contracts": "^5.0.0"
+  },
+  "devDependencies": {
+    "hardhat": "^2.19.1"
+  }
+}
